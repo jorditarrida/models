@@ -1,5 +1,5 @@
 {
-  "name": "soberwp/models",
+  "name": "jorditarrida/models",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description": "WordPress plugin to create custom post types and taxonomies using JSON, YAML or PHP files.",
